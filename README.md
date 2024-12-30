@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Bienvenido a mi perfil de GitHub 👋
+
+Soy un desarrollador junior, actualmente me encuentro estudiando **Licenciatura en Sistemas** desde 2024 en UNNOBA, Pergamino, Buenos Aires. 
+Me considero una persona muy autodidacta, responsable y trabajadora.
+He trabajado en distintas proyectos personales y grupales a lo largo de mi carrera.
+
+## 🌟 Sobre mí:
+- 💻 **Habilidades:** Java, Spring Boot, Git, MySQL, Docker, JPA, entre otras.
+- 🌍 **Idiomas:** Español (nativo) 🇪🇸 | Inglés (intermedio, actualmente estudiando) 🇬🇧.
+
+¡Gracias por visitar mi perfil! 
 
 <!--
 **Lucaspassera-hub/Lucaspassera-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
