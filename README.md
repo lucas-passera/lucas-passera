@@ -1,17 +1,18 @@
-## 👋 Bienvenido a mi perfil de GitHub 👋
+👋 Welcome to my GitHub 👋
 
-Soy un desarrollador junior, actualmente me encuentro estudiando **Licenciatura en Sistemas** desde 2024 en UNNOBA, Pergamino, Buenos Aires. 
-Me considero una persona muy autodidacta, responsable y trabajadora.
-He trabajado en distintas proyectos personales y grupales a lo largo de mi carrera.
+I'm a Junior Java Developer currently pursuing a Bachelor's Degree in Systems at UNNOBA, Pergamino, Buenos Aires (since 2024).
+I consider myself a highly self-taught, responsible, and hardworking individual.
+Throughout my journey, I have worked on various personal and group projects.
+About Me:
 
-## 🌟 Sobre mí:
-- 💻 **Habilidades:** Java, Spring Boot, Git, MySQL, Docker, JPA, entre otras.
-- 🌍 **Idiomas:** Español (nativo) 🇪🇸 | Inglés (intermedio, actualmente estudiando) 🇬🇧.
+    💻 Technologies: Java, Spring Boot, Git, MySQL, Docker, JPA, among others.
+    🌍 Languages: Spanish (native) 🇪🇸 | English (intermediate, currently improving) 🇬🇧.
 
-¡Gracias por visitar mi perfil! 
-
+Thank you for visiting my profile!
+Feel free to explore my projects, and let's connect.
+See you around!
 <!--
-**Lucaspassera-hub/Lucaspassera-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lucas-passera/Lucas-passera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
